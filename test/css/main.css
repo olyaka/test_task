@@ -1,0 +1,59 @@
+.navbar-offcanvas {
+    background-color:  #343a40 ;
+    overflow: hidden;
+}
+.hat {
+    position: relative;
+}
+.img-text {
+    position: absolute;
+    color: #fff;
+    text-align: center;
+    left: 0;
+    right: 0;
+    top: 50%;
+    font-size: 2rem;
+    font-family: serif;
+}
+
+.row {
+    padding-top: 1rem;
+}
+
+.col-md {
+    padding-bottom: 1rem;
+    padding-left: 0.5rem;
+    font-family: serif;
+    text-align: justify;
+}
+
+.col {
+    padding-bottom: 1rem;
+    font-family: serif;
+    text-align: justify;
+}
+
+.nav-link {
+    font-family: serif;
+    color: #6c757d;
+}
+
+.navbar-brand strong {
+    font-family: serif;
+}
+
+h1 {
+    font-family: serif;
+    padding: 1rem;
+}
+
+footer ul li {
+    list-style: none;
+    display: inline;
+    padding: 5px;
+}
+
+.footer_info {
+    text-align: center;
+    background-color: #343a40;
+}
